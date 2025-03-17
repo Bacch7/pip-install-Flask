@@ -1,0 +1,4 @@
+CREATE DATABASE desarrollo_web;
+CREATE USER 'root'@'localhost' IDENTIFIED BY 'tu_contraseña';
+GRANT ALL PRIVILEGES ON desarrollo_web.* TO 'root'@'localhost';
+FLUSH PRIVILEGES;
