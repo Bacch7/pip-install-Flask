@@ -1,0 +1,2 @@
+INSERT INTO usuarios (nombre, mail) VALUES ('Juan', 'juan@example.com');
+INSERT INTO usuarios (nombre, mail) VALUES ('Ana', 'ana@example.com');
